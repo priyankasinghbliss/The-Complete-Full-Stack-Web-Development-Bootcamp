@@ -9,20 +9,20 @@ This bootcamp covers **front-end, back-end, and full-stack development** with ha
 - **MongoDB, Mongoose, SQL**  
 - **APIs, Authentication, and Deployment**
 
-- ## 📂 Repository Structure  
+## 📂 Repository Structure  
 Each section contains notes, projects, and code snippets for better understanding.  
 
 ## 📁 Course Progress
--│
--├── 📂 Section-01: Introduction
--├── 📂 Section-02: HTML, CSS, Bootstrap
--├── 📂 Section-03: JavaScript & DOM
--├── 📂 Section-04: jQuery
--├── 📂 Section-05: Backend with Node.js & Express
--├── 📂 Section-06: Databases (SQL & MongoDB)
--├── 📂 Section-07: Authentication & Security
--├── 📂 Section-08: React.js & Full-Stack Development
--└── 📂 Section-09: Deployment & Final Projects
+<br/>│
+<br/>├── 📂 Section-01: Introduction
+<br/>├── 📂 Section-02: HTML, CSS, Bootstrap
+<br/>├── 📂 Section-03: JavaScript & DOM
+<br/>├── 📂 Section-04: jQuery
+<br/>├── 📂 Section-05: Backend with Node.js & Express
+<br/>├── 📂 Section-06: Databases (SQL & MongoDB)
+<br/>├── 📂 Section-07: Authentication & Security
+<br/>├── 📂 Section-08: React.js & Full-Stack Development
+<br/>└── 📂 Section-09: Deployment & Final Projects
 
 ## ✅ Progress Tracking  
 I will update my progress as I complete sections.  
