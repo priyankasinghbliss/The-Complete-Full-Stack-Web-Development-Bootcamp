@@ -48,6 +48,6 @@ I will update my progress as I complete sections.
 ---
 
 ### 📢 Let's Connect!  
-💼 **LinkedIn**: [Your Profile](www.linkedin.com/in/priyanka-singh-bliss)  
+💼 **LinkedIn**: [Priyanka Singh](https://www.linkedin.com/in/priyanka-singh-bliss/)  
 
 Happy coding! 🚀💻
