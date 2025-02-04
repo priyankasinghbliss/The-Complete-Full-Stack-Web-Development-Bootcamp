@@ -13,7 +13,7 @@ This bootcamp covers **front-end, back-end, and full-stack development** with ha
 Each section contains notes, projects, and code snippets for better understanding.  
 
 ## 📁 Course Progress
-<br/>│
+│
 <br/>├── 📂 Section-01: Introduction
 <br/>├── 📂 Section-02: HTML, CSS, Bootstrap
 <br/>├── 📂 Section-03: JavaScript & DOM
