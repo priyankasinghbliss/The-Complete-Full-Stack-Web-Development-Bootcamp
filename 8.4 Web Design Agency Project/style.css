@@ -16,6 +16,63 @@ h1 {
 
 footer {
   text-align: right;
-  color: midnightblue;
+  color: indigo;
+}
+
+.main h1 span{
+  color: indigo;
+}
+
+.card{
+  display: inline-block;
+  width: 48%;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.tile-image {
+  float: left;
+  width: 50%;
+  margin-right: 30px;
+}
+
+@media (max-width: 900px){
+  .card{
+    width: 100%;
+    display: block;
+    text-align: justify;
+    margin-bottom: 30px;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .logo{
+    width: 100px;
+  }
+
+  /* .tile-image{
+    
+  } */
+  
+}
+
+@media (max-width: 600px){
+  .tile-image{
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+  }
+
+  h1{
+    font-size: 2.5rem;
+  }
 }
 
